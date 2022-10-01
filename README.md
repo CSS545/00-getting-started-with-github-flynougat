@@ -1,3 +1,13 @@
+chloe
+1. Intended platform for final project is iOS.
+2. Intended framework/programming language for my final project is Swift.
+3. Whether you want to explore cross-platform development? 
+   Maybe if time allows. Main device will be iOS devices (iPhone & iPad).
+4. Include a brief explanation for your selections:
+   Interests in iOS development and previous experence in building Swift apps.
+
+
+   
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
